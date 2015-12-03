@@ -1,0 +1,1 @@
+"C:\Program Files\qemu\qemu-system-i386.exe" -serial mon:stdio -hdb fs.img xv6.img -smp 2 -m 512

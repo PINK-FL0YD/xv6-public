@@ -134,6 +134,7 @@
     <ClCompile Include="syscall.c" />
     <ClCompile Include="sysfile.c" />
     <ClCompile Include="sysproc.c" />
+    <ClCompile Include="test.c" />
     <ClCompile Include="timer.c" />
     <ClCompile Include="trap.c" />
     <ClCompile Include="uart.c" />
