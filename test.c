@@ -2,8 +2,8 @@
 #include "stat.h"
 #include "user.h"
 
-int main( int argc, char *argv ) {
+int test( int argc, char **argv ) {
     int i = 0;
-    printf( "Just Test!\n" );
+    i++;
     exit( );
 }
