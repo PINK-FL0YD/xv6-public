@@ -103,6 +103,7 @@
     <ClCompile Include="console.c" />
     <ClCompile Include="echo.c" />
     <ClCompile Include="exec.c" />
+    <ClCompile Include="exit.c" />
     <ClCompile Include="file.c" />
     <ClCompile Include="forktest.c" />
     <ClCompile Include="fs.c" />
@@ -128,6 +129,7 @@
     <ClCompile Include="proc.c" />
     <ClCompile Include="rm.c" />
     <ClCompile Include="sh.c" />
+    <ClCompile Include="shutdown.c" />
     <ClCompile Include="spinlock.c" />
     <ClCompile Include="stressfs.c" />
     <ClCompile Include="string.c" />
